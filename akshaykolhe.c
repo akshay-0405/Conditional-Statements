@@ -20,7 +20,7 @@ void main()
 	{
 		printf("You got a D Grade");
 	}
-    if (mrk<=40)
+        if (mrk<=40)
 	{
 		printf("You got a E Grade");
 	}
